@@ -24,8 +24,7 @@ It has an embed **GitHub logo** in the center and adds your **username** neatly 
 ## 📦 Installation
 
 1. **Clone the repository**
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/tanishkachormale/QR-Code-Generator.git
    
 2. **Create a virtual environment (optional but recommended)**
    python -m venv venv
